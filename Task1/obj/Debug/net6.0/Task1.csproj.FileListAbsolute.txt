@@ -1,0 +1,15 @@
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/bin/Debug/net6.0/Task1
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/bin/Debug/net6.0/Task1.deps.json
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/bin/Debug/net6.0/Task1.dll
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/bin/Debug/net6.0/Task1.pdb
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/Task1.dll
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/refint/Task1.dll
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/Task1.pdb
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task1/obj/Debug/net6.0/ref/Task1.dll

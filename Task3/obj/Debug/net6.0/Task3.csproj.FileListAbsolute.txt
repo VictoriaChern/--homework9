@@ -1,0 +1,15 @@
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/Task3.csproj.AssemblyReference.cache
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/Task3.AssemblyInfoInputs.cache
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/Task3.AssemblyInfo.cs
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/Task3.csproj.CoreCompileInputs.cache
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/bin/Debug/net6.0/Task3
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/bin/Debug/net6.0/Task3.deps.json
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/bin/Debug/net6.0/Task3.runtimeconfig.json
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/bin/Debug/net6.0/Task3.dll
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/bin/Debug/net6.0/Task3.pdb
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/Task3.dll
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/refint/Task3.dll
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/Task3.pdb
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/Task3.genruntimeconfig.cache
+/Users/viktoriaklimaceva/Desktop/C#Task9/Task3/obj/Debug/net6.0/ref/Task3.dll
